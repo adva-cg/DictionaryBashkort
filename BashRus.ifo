@@ -1,8 +1,8 @@
 StarDict's dict ifo file
 version=3.0.0
 bookname=bashkort_affixes.txt
-wordcount=6
-idxfilesize=90
+wordcount=11
+idxfilesize=160
 sametypesequence=h
-synwordcount=58
+synwordcount=101
 description=
